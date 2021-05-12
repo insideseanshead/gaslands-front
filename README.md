@@ -50,6 +50,7 @@ Copyright (c) 2020, MIT
 
 
 ## **Links**
-Repo: https://github.com/kbnewlon/React-Google-Books-Search
+Front-end Repo: https://github.com/insideseanshead/gaslands-front
+<br>Back-end Repo: https://github.com/insideseanshead/gaslands-api
 <br>Deployed Application Link: 
 
